@@ -16,5 +16,8 @@ int main()
         cout << "holaaaaaaaaa" << endl;
     }
 
+    cout << "Empieza la party"<< endl;
+    
+
     return 0;
 }
