@@ -11,6 +11,10 @@ int main()
     cout << "seba gato" << endl;
     
     cout << "x="<< x << "and y="<< y <<endl;
+    if (x==2)
+    {
+        cout << "holaaaaaaaaa" << endl;
+    }
 
     return 0;
 }
