@@ -17,5 +17,9 @@ int main()
     }
     cout << "Master sos dios" << endl;
 
+    cout << "Empieza la party"<< endl;
+     
+    cout << "lptm seba" << endl;
+
     return 0;
 }
