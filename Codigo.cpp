@@ -16,7 +16,8 @@ int main()
         cout << "holaaaaaaaaa" << endl;
     }
     cout << "Master sos dios" << endl;
-
+    
+    cout << "lo estoy modificando ,porque puedo" << endl;
     cout << "Empieza la party"<< endl;
      
     cout << "lptm seba" << endl;
