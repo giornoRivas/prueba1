@@ -23,5 +23,7 @@ int main()
     cout << "probando la key " << endl;
     cout << "lptm seba" << endl;
 
+    cout << vamos a jugar este finde con nacho y matty lord of ringd>>;
+
     return 0;
 }
