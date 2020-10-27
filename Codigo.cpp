@@ -22,6 +22,23 @@ int main()
     
     cout << "probando la key " << endl;
     cout << "lptm seba" << endl;
+    cout << o hacemos shogi << endl;
+
+         ,/////\\,
+       ,///////\\\\\
+     ,//////   > \\\\
+     ////  __ `   _\\
+     //__//  \--//  \
+     /'--\\_O/  \\_O/
+     \_         \   |
+       \      ,__>  /
+       |\   ,____  /
+       | \   \__| /
+       |  '._____/
+       |      |
+     /``"--._ \/`\
+    /        \|  /`--.
+  /```""--..__;.'     `\
 
     cout << vamos a jugar este finde con nacho y matty lord of ringd>>;
 
