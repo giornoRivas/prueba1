@@ -40,7 +40,7 @@ int main()
     /        \|  /`--.
   /```""--..__;.'     `\
 
-    cout << vamos a jugar este finde con nacho y matty lord of ringd>>;
+    Sebas << vamos a jugar este finde con nacho y matty lord of ringd>>;
 
     return 0;
 }
